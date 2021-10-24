@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-/Module
+/Module*
+3D_plot_class.PNG
 
 # C extensions
 *.so
