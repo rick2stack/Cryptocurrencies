@@ -2,7 +2,7 @@
 ## Overview
 The purpose of this analysis is to group all the crypto currencies that are currently trading into clusters. For this analysis we will use unsupervised Machine Learning Methods such as PCA and Kmeans. 
 ## Results
-1. PCA Method: After we scaled the data, we used PCA method to reduce the data to 3 principal components for each crypto currency. 
+1. PCA Method: After we scaled the data, we used PCA method to reduce the data to 3 principal components for each crypto currency.  
 ![PCA_components](https://github.com/rick2stack/Cryptocurrencies/blob/main/resources/PCA_components.PNG)
 
 2. Elbow Curves:  We then use the inertia algorithm to plot the elbow curve and determine that the ideal number of clusters is four (4) (k=4).
